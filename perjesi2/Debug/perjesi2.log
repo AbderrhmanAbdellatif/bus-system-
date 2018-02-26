@@ -1,0 +1,4 @@
+﻿  perjesi2.cpp
+c:\users\aizen\desktop\vize c  2017\perjesi2\perjesi2\perjesi2.cpp(306): warning C4101: 'Gunlerkisi': unreferenced local variable
+c:\users\aizen\desktop\vize c  2017\perjesi2\perjesi2\perjesi2.cpp(457): warning C4715: 'KisiArama': not all control paths return a value
+  perjesi2.vcxproj -> C:\Users\Aizen\Desktop\Vize C  2017\perjesi2\Debug\perjesi2.exe
